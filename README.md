@@ -5,12 +5,11 @@ Responsive Personal Portfolio Website Using HTML, CSS and JavaScript.
 The portfolio is hosted at https://nigamananya.github.io/
 
 
-<<<<<<< HEAD
 ![image](https://github.com/NigamAnanya/NigamAnanya.github.io/assets/104274005/571fa697-d812-4118-aec5-e80e3387d3d2)
 
 =======
 
- # [Your Name]'s Professional Portfolio
+ # Ananya's Professional Portfolio
 
 Welcome to my professional portfolio, a curated showcase of my technical skills, projects, and career milestones. This GitHub repository holds the source code and documentation necessary to understand and run the portfolio on your local machine.
 
@@ -55,14 +54,3 @@ Ensure you have Node.js and npm installed.
 ## Contributing
 Contributions are what make the open-source community such a fantastic place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-## Contact
-[Your Name] - [Your Email] - Feel free to reach out!
-
-## Acknowledgments
-- [Any libraries or tools used]
-- [Inspiration]
-- [Portfolio tutorials you followed]
-  
-This README provides a concise, user-centric guide to navigating my professional showcase. Enjoy exploring my journey!
-//
->>>>>>> 64b1de6 (Updating)
